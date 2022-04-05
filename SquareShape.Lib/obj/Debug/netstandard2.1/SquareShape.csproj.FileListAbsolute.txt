@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\SquareShape\bin\Debug\netstandard2.1\SquareShape.deps.json
+C:\Users\user\source\repos\SquareShape\bin\Debug\netstandard2.1\SquareShape.dll
+C:\Users\user\source\repos\SquareShape\bin\Debug\netstandard2.1\SquareShape.pdb
+C:\Users\user\source\repos\SquareShape\obj\Debug\netstandard2.1\SquareShape.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SquareShape\obj\Debug\netstandard2.1\SquareShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SquareShape\obj\Debug\netstandard2.1\SquareShape.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SquareShape\obj\Debug\netstandard2.1\SquareShape.AssemblyInfo.cs
+C:\Users\user\source\repos\SquareShape\obj\Debug\netstandard2.1\SquareShape.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SquareShape\obj\Debug\netstandard2.1\SquareShape.dll
+C:\Users\user\source\repos\SquareShape\obj\Debug\netstandard2.1\SquareShape.pdb
